@@ -22,7 +22,7 @@ Each student in our team added one math operation to the project.
 2. Run the program.  
 3. Enter the first number, the operator (+, -, *, /), and the second number.  
 4. See the result printed on the screen.
-# example
+# Example
 Enter first number: 10
 Enter operator (+, -, *, /): -
 Enter second number: 4
