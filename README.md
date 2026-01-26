@@ -25,10 +25,5 @@ Each student in our team added one math operation to the project.
 # Example
 Enter first number: 10
 Enter operator (+, -, *, /): -
-Enter second number: 4
+Enter second number
 Result: 6
-
-
-## Notes
-- Each operation is in a separate function.  
-- Make sure everyone’s functions are merged so the calculator works correctly.
